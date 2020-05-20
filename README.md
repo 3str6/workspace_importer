@@ -5,7 +5,7 @@ workspace_importerはスタートアップファイルに保存されている�
 ![アドオン画像](./Doc/workspace_importer.png)
 <br>
 ## 導入方法
-最新版ダウンロードは[こちら](https://github.com/3str6/workspace_importer/Doc/workspace_importer.zip)  
+最新版ダウンロードは[こちら](https://github.com/3str6/workspace_importer/blob/master/Doc/workspace_importer.zip)  
 1.編集 > プリファレンス... > アドオン > インストール > ダウンロードした.zipを選択します。  
 2.下のリストに「User Interface: Workspace Importer」が表示されるのでチェックを入れて有効化します。  
 3.3Dビュー > サイドバー（Nキー） > Workspace Importer　が追加されています。  
