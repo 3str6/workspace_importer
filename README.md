@@ -11,12 +11,12 @@ In other's .blend file you can easily use your own Workspace Settings.
 最新版ダウンロードは[こちら](https://github.com/3str6/workspace_importer/blob/master/Doc/workspace_importer.zip)  
 1.編集 > プリファレンス... > アドオン > インストール > ダウンロードした.zipを選択します。  
 2.下のリストに「User Interface: Workspace Importer」が表示されるのでチェックを入れて有効化します。  
-3.3Dビュー > サイドバー（Nキー） > Workspace Importer　が追加されています。  
+3.3Dビュー > サイドバー（Nキー） > ツール タブ > Workspace Importer　が追加されています。  
 <br>
 Download from [here](https://github.com/3str6/workspace_importer/blob/master/Doc/workspace_importer.zip)  
 1.Edit > Preference... > Add-on > Install > Select the downloaded workspace_importer.zip.  
 2.Enable 'User Interface: Workspace Importer'.  
-3.View3d > Sidebar(N-key) > Workspace Importer Panel is added.  
+3.View3d > Sidebar(N-key) > Tool Tab > Workspace Importer Panel is added.  
 <br> 
 ## 機能一覧_Functions
 ### インポート_Import  
