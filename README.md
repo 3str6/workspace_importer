@@ -1,5 +1,5 @@
-# workspace_importer
-workspace_importerはスタートアップファイルに保存されているワークスペースをインポートするアドオンです。  
+# Blender Add-on: workspace_importer
+workspace_importerはスタートアップファイルに保存されているワークスペースをインポートするBlenderアドオンです。  
 他ユーザーが作成した.blendのワークスペースを、簡単に自分のワークスペースに切り替えることができます。  
 <br>
 workspace_importer can import Workspace from startup.blend.  
@@ -38,7 +38,7 @@ Download from [here](https://github.com/3str6/workspace_importer/releases/downlo
 ## 公式の機能_Blender Functions
   本アドオンの機能はすべて公式の機能で代替できます。  
   Blenderには以下のような機能があります。  
-  Blender has tha same function as this Add-on.  
+  Blender has tha same functions as this Add-on.  
 ### 常にスタートアップ設定のワークスペースで.blendファイルを開く  
   編集 > プリファレンス... > セーブ＆ロード > Blendファイル > UIをロード  
 <br>
